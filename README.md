@@ -1,6 +1,8 @@
 ## Pomelo -- a fast, scalable game server framework for node.js
 
 ### 说明，这个是从pomelo fork出来的版本，对一些特殊的功能做了一些修改。
+### 安装模块
+npm install pomelo-zdhsoft
 
 Pomelo is a fast, scalable game server framework for [node.js](http://nodejs.org).
 It provides the basic development framework and many related components, including libraries and tools.
@@ -65,8 +67,8 @@ With the following references, you can quickly familiarize yourself with the pom
 ## Contributors
 * NetEase, Inc. (@NetEase)
 * Peter Johnson(@missinglink)
-* Aaron Yoshitake 
-* @D-Deo 
+* Aaron Yoshitake
+* @D-Deo
 * Eduard Gotwig
 * Eric Muyser(@stokegames)
 * @GeforceLee
